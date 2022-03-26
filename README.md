@@ -1,18 +1,17 @@
-
 # OpenHavroniya Source code
-This is a VK bot on Python
-With this bot you can:
+This is a VK bot on Python. <br/>
+With this bot you can: <br/>
 1. Create your custom reply`s with: <br/>
    /create-reply What is your name? <br/>
    My name is OpenHavroniya! <br/>
- <br/>
+
 2. Delete your custom reply`s with: <br/>
    /delete-reply What is your name? <br/>
    My name is OpenHavroniya! <br/>
-    <br/>
+
 3. Read all reply`s with: <br/>
    /reply What is your name? <br/>
-   
+
 4. You can use /help to visit all <br/>
    commands (Only on Russian) <br/>
 
@@ -35,14 +34,14 @@ in English. Please write me right
 translate in issues.
 
 # Исходный код ОпенХавронии
-Это VK бот на Python
+Это VK бот на Python. <br/>
 С его помощью ты можешь:
 1. Создавать кастомные ответы с помощью:
-   /create-reply Как тебя зовут?
+   /create-reply Как тебя зовут?<br/>
    Меня зовут ОпенХаврония!
    
 2. Удалять твои кастомные ответы с помощью:
-   /delete-reply Как тебя зовут?
+   /delete-reply Как тебя зовут?<br/>
    Меня зовут ОпенХаврония!
 
 3. Просматривать ответы с помощью:
@@ -64,6 +63,6 @@ translate in issues.
 4. Готово!
 
 # About
-Owner VK: vk.com/andrey_daniluk
-Owner Telegram: t.me/usmine10
+Owner VK: vk.com/andrey_daniluk <br/>
+Owner Telegram: t.me/usmine10 <br/>
 OpenHavroniya VK: vk.com/openhavroniya
