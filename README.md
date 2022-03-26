@@ -1,19 +1,20 @@
+
 # OpenHavroniya Source code
 This is a VK bot on Python
 With this bot you can:
-1. Create your custom reply`s with:
-   /create-reply What is your name?
-   My name is OpenHavroniya!
-
-2. Delete your custom reply`s with:
-   /delete-reply What is your name?
-   My name is OpenHavroniya!
+1. Create your custom reply`s with: <br/>
+   /create-reply What is your name? <br/>
+   My name is OpenHavroniya! <br/>
+ <br/>
+2. Delete your custom reply`s with: <br/>
+   /delete-reply What is your name? <br/>
+   My name is OpenHavroniya! <br/>
+    <br/>
+3. Read all reply`s with: <br/>
+   /reply What is your name? <br/>
    
-3. Read all reply`s with:
-   /reply What is your name?
-   
-4. You can use /help to visit all
-   commands (Only on Russian)
+4. You can use /help to visit all <br/>
+   commands (Only on Russian) <br/>
 
 # Installation
 
